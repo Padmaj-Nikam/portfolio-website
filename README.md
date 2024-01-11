@@ -1,2 +1,2 @@
 # Portfolio Website
- If you want to know me, well you can now.
+ If you want to know about me, well you can now.
